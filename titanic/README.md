@@ -22,5 +22,10 @@ Dataset clássico do Titanic, amplamente utilizado para aprendizado em ciência 
 
 \- Modelo simples de classificação
 
+\## Insights iniciais
 
+\- Mulheres tiveram taxa de sobrevivência muito maior que homens
+\- Passageiros da 1ª classe sobreviveram mais que os da 3ª
+\- A combinação de classe social e sexo influencia fortemente a sobrecicência
+\- A média de idade das soobreviviventes mulheres é menor que a dos homens
 
