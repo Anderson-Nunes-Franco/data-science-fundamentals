@@ -1,12 +1,12 @@
 # Iris Dataset — Classification Project
 
-## 📌 Objetivo
+## Objetivo
 Explorar o dataset Iris e desenvolver um modelo de **classificação multiclasse**
 capaz de identificar a espécie da flor com base em suas medidas físicas.
 
 ---
 
-## 📊 Dataset
+## Dataset
 O Iris Dataset é um conjunto de dados clássico da área de Machine Learning,
 disponibilizado originalmente por Ronald Fisher.
 
@@ -21,18 +21,18 @@ Cada classe possui 50 amostras balanceadas.
 
 ---
 
-## 🧩 Features
+## Features
 - Sepal length
 - Sepal width
 - Petal length
 - Petal width
 
-## 🎯 Target
+## Target
 - Species (espécie da flor)
 
 ---
 
-## 🔎 Análise Exploratória (EDA)
+## Análise Exploratória (EDA)
 - Verificação de tipos de dados e valores ausentes
 - Análise estatística descritiva
 - Visualizações para entender a separação entre as espécies
@@ -44,14 +44,14 @@ Cada classe possui 50 amostras balanceadas.
 
 ---
 
-## 📈 Visualizações
+## Visualizações
 - Scatter plots entre petal length e petal width
 - Scatter plots entre sepal length e sepal width
 - Uso de cores para diferenciar as espécies
 
 ---
 
-## 🤖 Modelo
+## Modelo
 - Algoritmo: Logistic Regression (classificação multiclasse)
 - Pré-processamento:
   - Padronização das features com `StandardScaler`
@@ -60,7 +60,7 @@ Cada classe possui 50 amostras balanceadas.
 
 ---
 
-## ✅ Avaliação
+## Avaliação
 - Métrica principal: Accuracy
 - Resultado: **100% de acurácia no conjunto de teste**
 
@@ -69,7 +69,7 @@ entre as classes, especialmente quando utilizadas as medidas das pétalas.
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 - Python
 - Pandas
 - Matplotlib & Seaborn
@@ -77,7 +77,7 @@ entre as classes, especialmente quando utilizadas as medidas das pétalas.
 
 ---
 
-## 📌 Conclusão
+## Conclusão
 O projeto demonstra um pipeline completo de Machine Learning,
 incluindo exploração de dados, visualização, pré-processamento,
 treinamento e avaliação de um modelo de classificação.
